@@ -63,8 +63,9 @@ namespace Frequency
                 {
                     Console.WriteLine(separator);
                     Console.WriteLine("Line: " + lineCounter);
-                    Console.WriteLine(separator);
                     Dictionary<char, int> finalDictionary = (Dictionary<char, int>)dictionaries[z];
+                    Console.WriteLine("Total Characters: " + finalDictionary.Count);
+                    Console.WriteLine(separator);
                     foreach (var keyValuePair in finalDictionary.OrderByDescending(key => key.Value))
                     {
                         Console.WriteLine("Key: {0}, Value: ({1})", keyValuePair.Key, keyValuePair.Value);
