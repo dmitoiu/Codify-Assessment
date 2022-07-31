@@ -1,0 +1,16 @@
+D:\Dev\Console Apps\Frequency\Frequency\obj\Debug\net6.0\Frequency.csproj.AssemblyReference.cache
+D:\Dev\Console Apps\Frequency\Frequency\obj\Debug\net6.0\Frequency.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Console Apps\Frequency\Frequency\obj\Debug\net6.0\Frequency.AssemblyInfoInputs.cache
+D:\Dev\Console Apps\Frequency\Frequency\obj\Debug\net6.0\Frequency.AssemblyInfo.cs
+D:\Dev\Console Apps\Frequency\Frequency\obj\Debug\net6.0\Frequency.csproj.CoreCompileInputs.cache
+D:\Dev\Console Apps\Frequency\Frequency\bin\Debug\net6.0\Frequency.exe
+D:\Dev\Console Apps\Frequency\Frequency\bin\Debug\net6.0\Frequency.deps.json
+D:\Dev\Console Apps\Frequency\Frequency\bin\Debug\net6.0\Frequency.runtimeconfig.json
+D:\Dev\Console Apps\Frequency\Frequency\bin\Debug\net6.0\Frequency.dll
+D:\Dev\Console Apps\Frequency\Frequency\bin\Debug\net6.0\Frequency.pdb
+D:\Dev\Console Apps\Frequency\Frequency\obj\Debug\net6.0\Frequency.dll
+D:\Dev\Console Apps\Frequency\Frequency\obj\Debug\net6.0\refint\Frequency.dll
+D:\Dev\Console Apps\Frequency\Frequency\obj\Debug\net6.0\Frequency.pdb
+D:\Dev\Console Apps\Frequency\Frequency\obj\Debug\net6.0\Frequency.genruntimeconfig.cache
+D:\Dev\Console Apps\Frequency\Frequency\obj\Debug\net6.0\ref\Frequency.dll
+D:\Dev\Console Apps\Frequency\Frequency\bin\Debug\net6.0\resources\sample.txt
